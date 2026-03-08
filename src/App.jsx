@@ -20,11 +20,9 @@ function App() {
 
   // Your links (edit these!)
   const links = [
-    { label: 'Portfolio', url: 'https://your-portfolio.com' },
+    { label: 'Zora', url: 'https://zora.co/@yunie' },
     { label: 'GitHub',    url: 'https://github.com/yourusername' },
     { label: 'X / Twitter', url: 'https://x.com/yourhandle' },
-    { label: 'LinkedIn',  url: 'https://linkedin.com/in/yourprofile' },
-    // Add more as needed
   ];
 
   return (
@@ -61,7 +59,8 @@ function App() {
       </nav>
 
       <footer className="donation-footer">
-        <p>All creator tokens and rewards are burned.</p>
+        <p>All $ZORA creator tokens and rewards are burned.</p>
+        <p>I am not affiliated with any cryptocurrency coins unless linked here.</p>
         <p>If you would like to support me, donate USDC to the address:</p>
         <div className="address-box">
           <code>0xYourRealUSDCaddressHere1234567890abcdef1234</code>
