@@ -39,7 +39,7 @@ function App() {
 
       <header className="profile-header">
         <img
-          src="../src/assets/profile.png"  // Your local image
+          src="./profile.png"  // Your local image
           alt="Profile"
           className="profile-pic"
         />
